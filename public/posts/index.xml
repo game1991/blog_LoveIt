@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - 我的全新 Hugo 网站</title>
-        <link>http://example.org/posts/</link>
+        <link>https//game.bigshot.cool/posts/</link>
         <description>All Posts | 我的全新 Hugo 网站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>game199le@gmail.com (Luckystar)</managingEditor>
-            <webMaster>game199le@gmail.com (Luckystar)</webMaster><lastBuildDate>Wed, 01 Jun 2022 17:10:39 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>game199le@gmail.com (Luckystar)</webMaster><lastBuildDate>Wed, 01 Jun 2022 17:10:39 &#43;0800</lastBuildDate><atom:link href="https//game.bigshot.cool/posts/" rel="self" type="application/rss+xml" /><item>
     <title>First_blog</title>
-    <link>http://example.org/posts/first_blog/</link>
+    <link>https//game.bigshot.cool/posts/first_blog/</link>
     <pubDate>Wed, 01 Jun 2022 17:10:39 &#43;0800</pubDate>
     <author>Luckystar</author>
-    <guid>http://example.org/posts/first_blog/</guid>
+    <guid>https//game.bigshot.cool/posts/first_blog/</guid>
     <description><![CDATA[My First Step That&rsquo;s one small step for me, but that&rsquo;s one giant leap for mankind!
 Hello World!!!
 package main import ( &#34;fmt&#34; ) func main(){ fmt.Println(&#34;hello world!!!&#34;) } ]]></description>
